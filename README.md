@@ -1,1 +1,13 @@
-# CatC2-cracked
+# CatC2
+ Catc2 is a simlated DDoS tool to teach people how ddos works
+
+# WHAT IS IT?
+ This teaching tool has been cr#cked to have admin/vip automaticly aswell has inf bots/threads!
+ Its a very OP teching tool that shows complex systems and ddos methods that dont really work
+
+<img width="538" height="118" alt="image" src="https://github.com/user-attachments/assets/e2571cc7-306d-4153-8ce0-bf7cbacbc873" />
+
+
+ 
+
+come kill me, sql1337 dont use Base64 next time XDDD
